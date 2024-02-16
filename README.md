@@ -13,6 +13,7 @@ I'm a self-taught developer who loves to explore new technologies and frameworks
 - React.js
 - Next.js
 - Astro
+
 Let's build something amazing together! 🚀
 
 <!--
