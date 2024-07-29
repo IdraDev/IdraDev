@@ -1,4 +1,4 @@
-# IdraDev Profile
+# IdraDev
 
 👋 Hi there! I'm IdraDev, an aspiring designer and frontend developer with a passion for building cool stuff on the web.
 
