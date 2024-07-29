@@ -6,21 +6,10 @@
 I'm a self-taught frontend developer who loves to explore new technologies and frameworks. My journey began with HTML and CSS, and I've since dived into various frontend technologies to enhance my skills.
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs,astro,mysql,cloudflare,nginx)
+![My Skills](https://skillicons.dev/icons?i=html,astro,css,tailwindcss,react,nextjs,,cloudflare,mysql,nginx)
+
+## Contacts
+<a href="mailto: info@idragraphics.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="https://t.me/idradev"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 
 Let's build something amazing together! 🚀
-
-<!--
-**IdraDev/IdraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
