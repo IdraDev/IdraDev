@@ -3,16 +3,10 @@
 👋 Hi there! I'm IdraDev, an aspiring developer with a passion for building cool stuff on the web.
 
 ## About Me
-I'm a self-taught developer who loves to explore new technologies and frameworks. My journey began with HTML and CSS, and I've since dived into various frontend technologies to enhance my skills.
+I'm a self-taught frontend developer who loves to explore new technologies and frameworks. My journey began with HTML and CSS, and I've since dived into various frontend technologies to enhance my skills.
 
 ## Skills
-- HTML
-- CSS
-- Tailwind CSS
-- JavaScript
-- React.js
-- Next.js
-- Astro
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs,astro,mysql,cloudflare,nginx)
 
 Let's build something amazing together! 🚀
 
