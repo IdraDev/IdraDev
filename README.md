@@ -10,6 +10,6 @@ I'm a self-taught designer and frontend web developer who loves to explore new t
 
 ## Contacts
 <a href="mailto: info@idragraphics.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-<a href="https://t.me/idradev"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+<a href="https://t.me/zidraz"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 
 Let's build something amazing together! 🚀
